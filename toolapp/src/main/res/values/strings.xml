@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SDK 调试助手</string>
+
+    <string-array name="list_test">
+        <item>apple</item>
+        <item>huawei</item>
+        <item>samsung</item>
+        <item>xiaomi</item>
+        <item>oppo</item>
+        <item>vivo</item>
+    </string-array>
+
+    <string-array name="spinner_test">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Shenzhen</item>
+        <item>Hefei</item>
+    </string-array>
+
+    <string-array name="event_counts">
+        <item>100条</item>
+        <item>1000条</item>
+        <item>10000条</item>
+    </string-array>
+
+    <string-array name="web_core">
+        <item>原生WebView</item>
+        <item>腾讯X5WebView</item>
+    </string-array>
+
+    <string-array name="list_setting">
+        <item>用户手册</item>
+        <item>关于</item>
+    </string-array>
+
+
+</resources>

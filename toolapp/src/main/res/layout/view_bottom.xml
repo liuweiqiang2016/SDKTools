@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:background="@color/colorPrimary"
+    android:orientation="horizontal">
+
+   <com.google.android.material.tabs.TabLayout
+       android:id="@+id/vb_tab"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:tabTextAppearance="@style/TabLayoutStyle"
+       />
+
+</LinearLayout>
